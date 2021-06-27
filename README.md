@@ -1,6 +1,6 @@
 # Example Boards for miro2cml
 
-This repository contains the Miro Example Boards for the miro2cml application. For each template exists at least one Example Board. 
+This repository contains the Miro Example Boards for the miro2cml application. At least one example board exists for each template. 
 
 ### How to use it
 
